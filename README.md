@@ -15,4 +15,4 @@ Usage:<br>
    adb remount rw   	    	// REMOUNT ALL AS READ/WRITE
    adb remount ro		        // REMOUNT ALL AS READ-ONLY
    adb remount / rw	      	// REMOUNT SYSTEM AS RW
-   adb remount /product ro	// REMOUNT PRODUCT AS RO</code>
+   adb remount /product ro	   // REMOUNT PRODUCT AS RO</code>
