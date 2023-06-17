@@ -11,8 +11,8 @@ Installation:<br>
    Copy this file into /system/bin/ and give it some permissions -> chmod 777 /system/bin/remount
 <br><br>
 Usage:<br>
-   adb remount   		        // REMOUNT ALL AS READ/WRITE<br>
-   adb remount rw   	    	// REMOUNT ALL AS READ/WRITE<br>
-   adb remount ro		        // REMOUNT ALL AS READ-ONLY<br>
-   adb remount / rw	      	// REMOUNT SYSTEM AS RW<br>
-   adb remount /product ro	// REMOUNT PRODUCT AS RO
+#   adb remount   		        // REMOUNT ALL AS READ/WRITE
+#   adb remount rw   	    	// REMOUNT ALL AS READ/WRITE
+#   adb remount ro		        // REMOUNT ALL AS READ-ONLY
+#   adb remount / rw	      	// REMOUNT SYSTEM AS RW
+#   adb remount /product ro	// REMOUNT PRODUCT AS RO
